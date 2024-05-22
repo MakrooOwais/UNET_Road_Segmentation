@@ -23,9 +23,9 @@ This code defines a `UNET` class that inherits from `pl.LightningModule`. Here's
 
 **Sample Outputs**
 
-![Sample Output 1](Outputs\0.jpg)
-![Sample Output 2](Outputs\1.jpg)
-![Sample Output 3](Outputs\2.jpg)
+![Sample Output 1](https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/0.jpg)
+![Sample Output 2](https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/1.jpg)
+![Sample Output 3](https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/2.jpg)
 
 **Running the Model**
 
