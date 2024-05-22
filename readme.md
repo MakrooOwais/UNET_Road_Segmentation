@@ -22,10 +22,11 @@ This code defines a `UNET` class that inherits from `pl.LightningModule`. Here's
     * `configure_optimizers` configures the Adam optimizer with the learning rate specified in the `__init__` method.
 
 **Sample Outputs**
-
-![Sample Output 1](https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/0.jpg)
-![Sample Output 2](https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/1.jpg)
-![Sample Output 3](https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/2.jpg)
+<div align="center">
+	<img src="https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/0.jpg">
+   <img src="https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/1.jpg">
+   <img src="https://github.com/MakrooOwais/UNET_Road_Segmentation/blob/main/Outputs/2.jpg">
+</div>
 
 **Running the Model**
 
